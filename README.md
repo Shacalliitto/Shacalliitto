@@ -1,3 +1,11 @@
+Olá, viajante! 😁<br> 
+Me chamo Leonan Lódula mas me apresento na internet como Shacall desde 2012. 👋<br>
+Atualmente tenho 25 anos e tenho me dedicado a obter um novo conhecimento em uma area pela qual ja havia me interessado anteriormente.<br>
+Fiz alguns cursos de webdesign quando mais novo e atualmente estou em busca do aprendizado e de uma colocação no mercado como desenvolvedor web frontend. 👨‍💻<br>
+Tenho aprendido algumas tecnologias da area através de estudos própios e com a ajuda de amigos que ja trabalham na area.<br>
+
+##
+
 <div>
   <a href="https://shacalliitto.github.io" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shacalliitto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -20,4 +28,5 @@
   <img align="center" alt="Shacall-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Shacall-Ng" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Shacall-Ng" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Shacall-Ng" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
