@@ -1,7 +1,7 @@
 Estudo programação mais a fundo há pouco mais de um ano.<br> 
 Meu primeiro contato com a area foi em 2010, mas mesmo facinado com o que estava mexendo, não pude dar continuidade por questões financeiras.<br>
-No começo de 2021, pós lockdown na pandemia do coronavirus e pedir demissão do meu antigo emprego em um shopping, retomei meus estudos sobre com a ajuda de amigos que trabalham na area e consegui meu primeiro emprego como desenvolvedor de fato na .<br>
-[Coyo Softcom](https://coyo.com.br)
+No começo de 2021, pós lockdown na pandemia do coronavirus e pedir demissão do meu antigo emprego em um shopping, retomei meus estudos sobre com a ajuda de amigos que trabalham na area e consegui meu primeiro emprego como desenvolvedor de fato na [Coyo Softcom](https://coyo.com.br).<br>
+
 
 ##
 
